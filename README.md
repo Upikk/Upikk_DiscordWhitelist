@@ -3,13 +3,13 @@ Skrypt na Whitelist przez role na Discordzie
 
 Jeśli zauważysz błąd lub potrzebujesz pomocy przy skrypcie. Pisz dc Upik#0001
 
-# ważne
+# Ważne
 
 na https://discord.com/developers/applications musisz zaznaczyć intenty. W przeciwnym wypadku bot nie będzie Działać
 
 ![image](https://user-images.githubusercontent.com/96323919/182303069-2d1a44d5-925d-4499-942a-685dc72c16b5.png)
 
-# config.json
+# Konfiguracja config.json
 
   "BOT_TOKEN": "", token bota ze strony https://discord.com/developers/applications zakładki Bot
   
