@@ -5,9 +5,9 @@ Jeśli zauważysz błąd lub potrzebujesz pomocy przy skrypcie. Pisz dc Upik#000
 
 # Ważne
 
-1. Po pobraniu uruchom install.bat
+Uruchamiasz: start Upikk_DiscordWhitelist w server.cfg
 
-2. Na https://discord.com/developers/applications musisz zaznaczyć intenty. W przeciwnym wypadku bot nie będzie Działać
+Na https://discord.com/developers/applications musisz zaznaczyć intenty. W przeciwnym wypadku bot nie będzie Działać
 
 ![image](https://user-images.githubusercontent.com/96323919/182303069-2d1a44d5-925d-4499-942a-685dc72c16b5.png)
 
