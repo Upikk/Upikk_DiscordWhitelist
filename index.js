@@ -40,7 +40,7 @@ sprawdzCzyMaDC = async function (source, callback) {
 
 client
   .login(config.BOT_TOKEN)
-  .then(`Discord Whitelist Successfully Loaded!`)
+  .then(`Discord Whitelist uruchomione Poprawnie! ${client.user.tag}`)
   .catch((err) => {
     const st = err.toString();
     if (st.includes("An invalid token was provided")) {
