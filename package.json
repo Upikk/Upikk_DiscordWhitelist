@@ -1,0 +1,11 @@
+{
+  "name": "upikk_discordwhitelist",
+  "version": "2.2.2",
+  "description": "Musisz mieć rolę na dc żeby wbić na serwer Proste.",
+  "main": "index.js",
+  "author": "Upikk",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
