@@ -1,7 +1,7 @@
 # Upikk_DiscordWhitelist
 Skrypt na Whitelist przez role na Discordzie
 
-Jeśli zauważysz błąd lub potrzbujesz pomocy przy skrypcie. Pisz dc Upik#0001
+Jeśli zauważysz błąd lub potrzebujesz pomocy przy skrypcie. Pisz dc Upik#0001
 
 # ważne
 
